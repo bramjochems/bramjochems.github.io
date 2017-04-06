@@ -4,24 +4,17 @@ title: About me
 permalink: /about/
 ---
 
-Hi, I am Gayan Virajith, a developer (who works on the web) based on Sri Lanka. 
-Graduated from the University College Dublin (National University of Ireland). 
+Hi, I am Bram Jochems, welcome to my site.
 
-I am Working for [template-factory.nl][tf] also known as [Mearch ICT][m].
-Prefer to serve with Php and Ruby based stacks and also love to work 
-on [Jekyll][jekyll] and [Processwire CMS/CMF][pw].
+I currently work for [NN Re][NN Re], where I manage the market risks of a large block of VA policies. In the past I have worked as sell side derivatives trader in NY an Amsterdam. Together with my wife and our three children, I currently live in the Netherlands.
 
 ### Contact me
 
-Find me on [Google+][google] / [Github][github] / [Twitter][Twitter] or just say `Hello` at 
-[gayanvirajith@gmail.com](gayanvirajith@gmail.com).
+Find me on [Github][github] / [Twitter][Twitter] / [Facebook][facebook] or just say `Hi` at 
+[bram.jochems@gmail.com](bram.jochems@gmail.com).
 
 
-[tf]: http://template-factory.nl
-[m]: http://mearch.com
-[pw]: http://processwire.com
-[pwf]: http://processwire.com/talk
-[jekyll]: http://jekyllrb.com
-[github]: https://github.com/gayanvirajith
-[google]: https://plus.google.com/+GayanVirajith
-[twitter]: https://twitter.com/gayanvirajith
+[NN Re]: http://nn-group.com
+[github]: https://github.com/bramjochems
+[twitter]: https://twitter.com/bramjochems
+[facebook]: https://facebook.com/bramjochems

@@ -17,4 +17,4 @@ Find me on [Github][github] / [Twitter][Twitter] / [Facebook][facebook] or just 
 [NN Re]: http://nn-group.com
 [github]: https://github.com/bramjochems
 [twitter]: https://twitter.com/bramjochems
-[facebook]: https://facebook.com/bramjochems
+[facebook]: https://facebook.com/bram.jochems

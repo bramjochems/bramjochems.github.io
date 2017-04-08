@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi, I am Bram Jochems, welcome to my site.
 
-I currently work for [NN Re][NN Re], where I manage the market risks of a large block of VA policies. In the past I have worked as sell side derivatives trader in NY an Amsterdam. Together with my wife and our three children, I currently live in the Netherlands.
+I am a derivatives professional with a lot of experience across many asset classes.  Together with my wife and our three children, I currently live in the Netherlands. I currently work for [NN Re][NN Re], where I manage the market risks of a large block of VA policies. In the past I have worked as sell side derivatives trader in NY and Amsterdam.
 
 ### Contact me
 

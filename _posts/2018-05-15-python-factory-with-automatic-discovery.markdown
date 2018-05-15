@@ -2,7 +2,7 @@
 layout: post
 title:  Factory with automatic discovery in python
 date:   2018-05-15 21:05:56 +0200
-categories: blogging
+categories: python
 ---
 
 Recently, I needed to code (in python) a 'factory' class whilst not knowing when coding what all classes are that could potentially be instantiated. To make this a bit more concrete, I want to able to create a python package, that allows users to create probability distribution objects through a syntax such as:
@@ -34,7 +34,7 @@ An example of a class deriving from this:
 
 ```
 class LogNormal(Distribution):
-	# Again, some detials omitted
+	# Again, some details omitted
 	
 	@classmethod
     def get_model_name(cls):

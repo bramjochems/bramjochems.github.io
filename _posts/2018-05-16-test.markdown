@@ -10,6 +10,6 @@ Testing mathjax support
 
 {% raw %}
 $$a + b - c = 44 $$
-{% raw %}
+{% endraw %}
 
 as well as inline  \(a,b)\

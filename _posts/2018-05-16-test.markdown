@@ -8,6 +8,8 @@ categories: hedging
 
 Testing mathjax support
 
+{% raw %}
 $$a + b - c = 44 $$
+{% raw %}
 
-as well as inline  $a,b$
+as well as inline  \(a,b)\

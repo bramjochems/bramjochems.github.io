@@ -5,4 +5,9 @@ date:   2018-05-16 1:05:56 +0200
 categories: hedging
 ---
 
-Testing mathjax support $$a + b - c = 44 $$
+
+Testing mathjax support
+
+$$a + b - c = 44 $$
+
+as well as inline  $a,b$

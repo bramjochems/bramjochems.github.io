@@ -1,0 +1,8 @@
+---
+layout: post
+title:  test
+date:   2018-05-16 1:05:56 +0200
+categories: hedging
+---
+
+Testing mathjax support $$a + b - c = 44 $$
